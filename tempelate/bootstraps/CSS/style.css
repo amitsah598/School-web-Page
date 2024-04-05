@@ -1,0 +1,6 @@
+.btn-primary {
+    background-image: -webkit-linear-gradient(top, #b73364 0%, #b13158 100%);
+}
+.btn-primary :hover{
+    background-color: #b13158;
+}
